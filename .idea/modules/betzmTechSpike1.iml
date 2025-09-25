@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUBY_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="RailsFacetType" name="Ruby on Rails">
+      <configuration>
+        <RAILS_FACET_CONFIG_ID NAME="RAILS_FACET_SUPPORT_REMOVED" VALUE="false" />
+        <RAILS_FACET_CONFIG_ID NAME="RAILS_TESTS_SOURCES_PATCHED" VALUE="true" />
+        <RAILS_FACET_CONFIG_ID NAME="RAILS_FACET_APPLICATION_ROOT" VALUE="$MODULE_DIR$/../../betzmTechSpike" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="ModuleRunConfigurationManager">
+    <shared />
+  </component>
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../../betzmTechSpike">
+      <sourceFolder url="file://$MODULE_DIR$/../../betzmTechSpike/features" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../betzmTechSpike/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../betzmTechSpike/test" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../betzmTechSpike/.bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../betzmTechSpike/components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../betzmTechSpike/log" />
+      <excludeFolder url="file://$MODULE_DIR$/../../betzmTechSpike/public/packs" />
+      <excludeFolder url="file://$MODULE_DIR$/../../betzmTechSpike/public/system" />
+      <excludeFolder url="file://$MODULE_DIR$/../../betzmTechSpike/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/../../betzmTechSpike/vendor/bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../betzmTechSpike/vendor/cache" />
+    </content>
+    <orderEntry type="jdk" jdkName="ruby-3.0.4-p208" jdkType="RUBY_SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="actioncable (v6.1.7.10, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="actionmailbox (v6.1.7.10, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="actionmailer (v6.1.7.10, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="actionpack (v6.1.7.10, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="actiontext (v6.1.7.10, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="actionview (v6.1.7.10, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activejob (v6.1.7.10, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activemodel (v6.1.7.10, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activerecord (v6.1.7.10, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activerecord-session_store (v2.1.0, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activestorage (v6.1.7.10, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activesupport (v6.1.7.10, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="addressable (v2.8.7, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="aes_key_wrap (v1.1.0, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ast (v2.4.2, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="attr_required (v1.0.2, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="aws-eventstream (v1.3.1, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="aws-partitions (v1.1056.0, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="aws-record (v2.13.3, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="aws-sdk-core (v3.219.0, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="aws-sdk-dynamodb (v1.137.0, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="aws-sdk-kms (v1.99.0, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="aws-sdk-rails (v3.13.0, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="aws-sdk-s3 (v1.182.0, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="aws-sdk-ses (v1.81.0, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="aws-sdk-sesv2 (v1.72.0, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="aws-sdk-sqs (v1.93.0, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="aws-sessionstore-dynamodb (v2.2.0, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="aws-sigv4 (v1.11.0, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="base64 (v0.3.0, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bcrypt (v3.1.20, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bindata (v2.5.1, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bindex (v0.8.1, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bootsnap (v1.18.6, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="builder (v3.3.0, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v2.2.33, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="capybara (v3.40.0, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="cgi (v0.5.0, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="coffee-rails (v5.0.0, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="coffee-script (v2.4.1, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="coffee-script-source (v1.12.2, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="concurrent-ruby (v1.3.5, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="crass (v1.0.6, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="daemons (v1.4.1, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="date (v3.4.1, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="delayed_job (v4.1.13, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="delayed_job_active_record (v4.1.11, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="diff-lcs (v1.6.0, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="docile (v1.4.1, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="email_validator (v2.2.4, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="erb (v4.0.4, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="erubi (v1.13.1, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="execjs (v2.10.0, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="faraday (v2.13.0, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="faraday-follow_redirects (v0.3.0, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="faraday-net_http (v3.4.0, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ffi (v1.17.1, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="globalid (v1.2.1, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="i18n (v1.14.7, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="jbuilder (v2.13.0, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="jmespath (v1.6.2, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="jquery-rails (v4.6.0, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="jquery-ui-rails (v7.0.0, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="json (v2.10.1, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="json-jwt (v1.16.7, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="language_server-protocol (v3.17.0.4, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="lint_roller (v1.1.0, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="logger (v1.7.0, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="loofah (v2.24.1, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mail (v2.8.1, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="marcel (v1.0.4, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="matrix (v0.4.3, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="method_source (v1.1.0, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mini_mime (v1.1.5, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="minitest (v5.25.5, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="minitest-rails (v6.1.1, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mocha (v1.16.1, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="msgpack (v1.8.0, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="multi_json (v1.15.0, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="net-http (v0.6.0, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="net-imap (v0.4.22, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="net-pop (v0.1.2, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="net-protocol (v0.2.2, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="net-smtp (v0.5.1, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="nio4r (v2.7.4, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="nokogiri (v1.17.2, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="openid_connect (v2.3.1, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="parallel (v1.26.3, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="parser (v3.3.7.1, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="psych (v5.2.3, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="public_suffix (v6.0.2, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="puma (v5.6.4, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="racc (v1.8.1, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rack (v2.2.17, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rack-oauth2 (v2.2.1, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rack-session (v1.0.2, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rack-test (v2.2.0, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rails (v6.1.7.10, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rails-controller-testing (v1.0.5, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rails-dom-testing (v2.3.0, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rails-html-sanitizer (v1.6.2, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="railties (v6.1.7.10, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rainbow (v3.1.1, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rake (v13.3.0, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rdoc (v6.14.2, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="redis (v4.8.1, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="regexp_parser (v2.11.2, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rspec-core (v3.13.3, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rspec-expectations (v3.13.3, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rspec-mocks (v3.13.2, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rspec-rails (v5.1.2, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rspec-support (v3.13.2, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rubocop (v1.73.1, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rubocop-ast (v1.38.1, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ruby-progressbar (v1.13.0, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sassc (v2.4.0, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sassc-rails (v2.1.2, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sdoc (v2.6.1, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="simplecov (v0.22.0, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="simplecov-html (v0.13.1, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="simplecov_json_formatter (v0.1.4, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="spring (v4.2.1, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sprockets (v4.2.2, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sprockets-rails (v3.5.2, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sqlite3 (v1.7.3, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="stringio (v3.1.7, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="swd (v2.0.3, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="thor (v1.4.0, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tilt (v2.6.0, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="timeout (v0.4.3, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tzinfo (v2.0.6, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tzinfo-data (v1.2025.1, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="uglifier (v4.2.1, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="unicode-display_width (v3.1.4, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="unicode-emoji (v4.0.4, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="uri (v1.0.3, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="validate_url (v1.0.15, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="web-console (v4.2.1, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="webfinger (v2.1.3, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="websocket-driver (v0.8.0, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="websocket-extensions (v0.1.5, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="xpath (v3.2.0, ruby-3.0.4-p208) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="zeitwerk (v2.6.18, ruby-3.0.4-p208) [gem]" level="application" />
+  </component>
+  <component name="RModuleSettingsStorage">
+    <LOAD_PATH number="0" />
+    <I18N_FOLDERS number="1" string0="$MODULE_DIR$/../../betzmTechSpike/config/locales" />
+  </component>
+  <component name="RailsPaths" isManagedAutomatically="true">
+    <entry key="app">
+      <value>file://$MODULE_DIR$/../../betzmTechSpike/app</value>
+    </entry>
+    <entry key="app/assets">
+      <value>file://$MODULE_DIR$/../../betzmTechSpike/app/assets</value>
+    </entry>
+    <entry key="app/channels">
+      <value>file://$MODULE_DIR$/../../betzmTechSpike/app/channels</value>
+    </entry>
+    <entry key="app/controllers">
+      <value>file://$MODULE_DIR$/../../betzmTechSpike/app/controllers</value>
+    </entry>
+    <entry key="app/helpers">
+      <value>file://$MODULE_DIR$/../../betzmTechSpike/app/helpers</value>
+    </entry>
+    <entry key="app/mailers">
+      <value>file://$MODULE_DIR$/../../betzmTechSpike/app/mailers</value>
+    </entry>
+    <entry key="app/models">
+      <value>file://$MODULE_DIR$/../../betzmTechSpike/app/models</value>
+    </entry>
+    <entry key="app/views">
+      <value>file://$MODULE_DIR$/../../betzmTechSpike/app/views</value>
+    </entry>
+    <entry key="config">
+      <value>file://$MODULE_DIR$/../../betzmTechSpike/config</value>
+    </entry>
+    <entry key="config/cable">
+      <value>file://$MODULE_DIR$/../../betzmTechSpike/config/cable.yml</value>
+    </entry>
+    <entry key="config/database">
+      <value>file://$MODULE_DIR$/../../betzmTechSpike/config/database.yml</value>
+    </entry>
+    <entry key="config/environment">
+      <value>file://$MODULE_DIR$/../../betzmTechSpike/config/environment.rb</value>
+    </entry>
+    <entry key="config/environments">
+      <value>file://$MODULE_DIR$/../../betzmTechSpike/config/environments</value>
+    </entry>
+    <entry key="config/initializers">
+      <value>file://$MODULE_DIR$/../../betzmTechSpike/config/initializers</value>
+    </entry>
+    <entry key="config/locales">
+      <value>file://$MODULE_DIR$/../../betzmTechSpike/config/locales</value>
+    </entry>
+    <entry key="config/routes">
+      <value>file://$MODULE_DIR$/../../betzmTechSpike/config/routes</value>
+    </entry>
+    <entry key="config/routes.rb">
+      <value>file://$MODULE_DIR$/../../betzmTechSpike/config/routes.rb</value>
+    </entry>
+    <entry key="config/secrets">
+      <value>file://$MODULE_DIR$/../../betzmTechSpike/config</value>
+    </entry>
+    <entry key="db">
+      <value>file://$MODULE_DIR$/../../betzmTechSpike/db</value>
+    </entry>
+    <entry key="db/migrate">
+      <value>file://$MODULE_DIR$/../../betzmTechSpike/db/migrate</value>
+    </entry>
+    <entry key="db/seeds.rb">
+      <value>file://$MODULE_DIR$/../../betzmTechSpike/db/seeds.rb</value>
+    </entry>
+    <entry key="lib">
+      <value>file://$MODULE_DIR$/../../betzmTechSpike/lib</value>
+    </entry>
+    <entry key="lib/assets">
+      <value>file://$MODULE_DIR$/../../betzmTechSpike/lib/assets</value>
+    </entry>
+    <entry key="lib/tasks">
+      <value>file://$MODULE_DIR$/../../betzmTechSpike/lib/tasks</value>
+    </entry>
+    <entry key="lib/templates">
+      <value>file://$MODULE_DIR$/../../betzmTechSpike/lib/templates</value>
+    </entry>
+    <entry key="log">
+      <value>file://$MODULE_DIR$/../../betzmTechSpike/log/development.log</value>
+    </entry>
+    <entry key="public">
+      <value>file://$MODULE_DIR$/../../betzmTechSpike/public</value>
+    </entry>
+    <entry key="public/javascripts">
+      <value>file://$MODULE_DIR$/../../betzmTechSpike/public/javascripts</value>
+    </entry>
+    <entry key="public/stylesheets">
+      <value>file://$MODULE_DIR$/../../betzmTechSpike/public/stylesheets</value>
+    </entry>
+    <entry key="tmp">
+      <value>file://$MODULE_DIR$/../../betzmTechSpike/tmp</value>
+    </entry>
+    <entry key="vendor">
+      <value>file://$MODULE_DIR$/../../betzmTechSpike/vendor</value>
+    </entry>
+    <entry key="vendor/assets">
+      <value>file://$MODULE_DIR$/../../betzmTechSpike/vendor/assets</value>
+    </entry>
+  </component>
+  <component name="RubyModuleProperties">
+    <option name="autoCreated" value="true" />
+  </component>
+</module>
