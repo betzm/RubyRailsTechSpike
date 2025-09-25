@@ -1,0 +1,9 @@
+<%= form_with url: "/process", method: :post do %>
+  <%= label_tag :user_input, "Enter something:" %>
+  <%= text_field_tag :user_input %>
+  <%= submit_tag "Submit" %>
+<% end %>
+
+<% if @result %>
+  <p>Result: <%= @result %></p>
+<% end %>
